@@ -55,8 +55,14 @@ header {
     margin-top: 4.63vh !important;
 }
 
+.photos-big {
+    width: 32vmax;
+    height: 30vmax;
+    margin: 0 auto;
+}
+
 .photos {
-    width: 30vmax;
+    width: 25vmax;
     height: 30vmax;
     margin: 0 auto;
 }
