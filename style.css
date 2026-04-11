@@ -56,7 +56,7 @@ header {
 }
 
 .photos-big {
-    width: 32vmax;
+    width: 33vmax;
     height: 30vmax;
     margin: 0 auto;
 }
@@ -147,8 +147,8 @@ footer {
         display: none;
     }
     .photos {
-        width: 15vmax;
-        height: 20vmax;
+        width: 25vmax;
+        height: 30vmax;
         margin: 0 auto;
     }
 
