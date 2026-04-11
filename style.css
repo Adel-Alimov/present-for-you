@@ -148,8 +148,8 @@ footer {
     }
 
     .photos-big {
-        width: 28vw;
-        height: 25vw;
+        width: 28vmax;
+        height: 25vmax;
     }
 
     .photos {
