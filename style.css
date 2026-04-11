@@ -146,9 +146,15 @@ footer {
     .main-center-line {
         display: none;
     }
+
+    .photos-big {
+        width: 28vw;
+        height: 25vw;
+    }
+
     .photos {
-        width: 25vmax;
-        height: 30vmax;
+        width: 20vmax;
+        height: 25vmax;
         margin: 0 auto;
     }
 
