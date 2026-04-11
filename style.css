@@ -148,6 +148,11 @@ footer {
         display: none;
     }
 
+    .photos-title {
+        width: 28vmax;
+        height: 25vmax;
+    }
+
     .photos-big {
         width: 23vmax;
         height: 20vmax;
